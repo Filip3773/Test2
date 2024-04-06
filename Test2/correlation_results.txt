@@ -1,0 +1,7 @@
+Najveća pozitivna korelacija: 
+tempo  tempo    1.0
+dtype: float64
+
+Najveća negativna korelacija: 
+acousticness  energy   -0.445469
+dtype: float64
